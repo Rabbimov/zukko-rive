@@ -1,0 +1,325 @@
+<Rive version="1" kind="fragment">
+    <Artboard defaultStateMachineId="0:7" viewModelId="0:40" viewModelInstanceId="0:42" styleId="0:5" width="1024" height="1536" name="Teacher" id="0:2">
+        <LayoutComponentStyle name="Artboard Style" id="0:5"/>
+        <Node x="0.00" y="0.00" name="Teacher" id="0:339">
+            <Node x="515.00" y="940.00" name="Body" id="0:327">
+                <Node x="-30.00" y="-508.00" name="Head" id="0:304">
+                    <Node x="-7.00" y="-69.00" name="Mouth" id="0:303">
+                        <Image x="-0.25" y="5.75" scaleX="0.5" scaleY="0.5" opacity="0" assetId="0:235" name="mouth_open" id="0:236"/>
+                        <Image x="-2.00" y="0.00" scaleX="0.5" scaleY="0.5" opacity="0" assetId="0:233" name="mouth_neutral" id="0:234"/>
+                        <Image x="1.00" y="7.66" scaleX="0.5" scaleY="0.5" opacity="0" assetId="0:231" name="mouth_sad" id="0:232"/>
+                        <Image x="0.00" y="2.00" scaleX="0.5" scaleY="0.5" opacity="0" assetId="0:229" name="mouth_surprised" id="0:230"/>
+                        <Image x="0.00" y="7.25" scaleX="0.5" scaleY="0.5" opacity="0" assetId="0:227" name="mouth_smile_big" id="0:228"/>
+                        <Image x="0.00" y="3.50" scaleX="0.5" scaleY="0.5" opacity="0" assetId="0:225" name="mouth_TH" id="0:226"/>
+                        <Image x="0.00" y="4.50" scaleX="0.5" scaleY="0.5" opacity="0" assetId="0:223" name="mouth_KG" id="0:224"/>
+                        <Image x="0.00" y="3.50" scaleX="0.5" scaleY="0.5" opacity="0" assetId="0:221" name="mouth_R" id="0:222"/>
+                        <Image x="0.00" y="2.50" scaleX="0.5" scaleY="0.5" opacity="0" assetId="0:219" name="mouth_SH" id="0:220"/>
+                        <Image x="0.00" y="1.75" scaleX="0.5" scaleY="0.5" opacity="0" assetId="0:217" name="mouth_S" id="0:218"/>
+                        <Image x="0.00" y="2.50" scaleX="0.5" scaleY="0.5" opacity="0" assetId="0:215" name="mouth_LNTD" id="0:216"/>
+                        <Image x="0.00" y="1.50" scaleX="0.5" scaleY="0.5" opacity="0" assetId="0:213" name="mouth_FV" id="0:214"/>
+                        <Image x="0.00" y="0.50" scaleX="0.5" scaleY="0.5" opacity="0" assetId="0:211" name="mouth_MBP" id="0:212"/>
+                        <Image x="0.00" y="1.00" scaleX="0.5" scaleY="0.5" opacity="0" assetId="0:209" name="mouth_U" id="0:210"/>
+                        <Image x="0.00" y="2.00" scaleX="0.5" scaleY="0.5" opacity="0" assetId="0:207" name="mouth_O" id="0:208"/>
+                        <Image x="0.00" y="3.50" scaleX="0.5" scaleY="0.5" opacity="0" assetId="0:205" name="mouth_E" id="0:206"/>
+                        <Image x="0.00" y="7.50" scaleX="0.5" scaleY="0.5" opacity="0" assetId="0:203" name="mouth_A" id="0:204"/>
+                        <Image x="0.00" y="0.00" scaleX="0.5" scaleY="0.5" assetId="0:201" name="mouth_rest" id="0:202"/>
+                    </Node>
+                    <Image x="-7.68" y="-74.00" scaleX="0.5" scaleY="0.5" assetId="0:301" name="wrinkles" id="0:302"/>
+                    <Node x="40.25" y="-163.18" name="Eye_left" id="0:300">
+                        <Image x="0.25" y="3.43" scaleX="0.5" scaleY="0.5" opacity="0" assetId="0:298" name="eye_left_closed" id="0:299"/>
+                        <Node x="0.00" y="0.00" name="EyeOpen_left" id="0:297">
+                            <Node x="0.00" y="0.00" name="Look_left" id="0:292">
+                                <Image x="5.75" y="16.18" scaleX="0.5" scaleY="0.5" assetId="0:290" name="eye_left_detail_01" id="0:291"/>
+                                <Image x="-12.25" y="-4.82" scaleX="0.5" scaleY="0.5" assetId="0:288" name="eye_shine_left" id="0:289"/>
+                                <Image x="0.75" y="4.18" scaleX="0.5" scaleY="0.5" assetId="0:286" name="pupil_left" id="0:287"/>
+                                <Image x="-1.40" y="5.28" scaleX="0.5" scaleY="0.5" assetId="0:284" name="iris_left" id="0:285"/>
+                            </Node>
+                            <Image x="0.00" y="0.00" scaleX="0.5" scaleY="0.5" assetId="0:295" name="eye_white_left" id="0:296"/>
+                            <Image x="0.80" y="-12.77" scaleX="0.5" scaleY="0.5" assetId="0:293" name="eyelash_left" id="0:294"/>
+                        </Node>
+                    </Node>
+                    <Node x="-83.75" y="-140.65" name="Eye_right" id="0:283">
+                        <Image x="-1.25" y="3.15" scaleX="0.5" scaleY="0.5" opacity="0" assetId="0:281" name="eye_right_closed" id="0:282"/>
+                        <Node x="0.00" y="0.00" name="EyeOpen_right" id="0:280">
+                            <Node x="0.00" y="0.00" name="Look_right" id="0:275">
+                                <Image x="17.75" y="12.65" scaleX="0.5" scaleY="0.5" assetId="0:273" name="eye_right_detail_01" id="0:274"/>
+                                <Image x="1.75" y="-8.35" scaleX="0.5" scaleY="0.5" assetId="0:271" name="eye_shine_right" id="0:272"/>
+                                <Image x="13.75" y="-0.35" scaleX="0.5" scaleY="0.5" assetId="0:269" name="pupil_right" id="0:270"/>
+                                <Image x="10.55" y="1.60" scaleX="0.5" scaleY="0.5" assetId="0:267" name="iris_right" id="0:268"/>
+                            </Node>
+                            <Image x="0.00" y="0.00" scaleX="0.5" scaleY="0.5" assetId="0:278" name="eye_white_right" id="0:279"/>
+                            <Image x="-2.05" y="-13.46" scaleX="0.5" scaleY="0.5" assetId="0:276" name="eyelash_right" id="0:277"/>
+                        </Node>
+                    </Node>
+                    <Node x="146.00" y="-122.00" name="Earring_left" id="0:266">
+                        <Image x="0.00" y="9.00" scaleX="0.5" scaleY="0.5" assetId="0:264" name="earring_left" id="0:265"/>
+                    </Node>
+                    <Node x="-153.50" y="-77.00" name="Earring_right" id="0:263">
+                        <Image x="0.00" y="9.50" scaleX="0.5" scaleY="0.5" assetId="0:261" name="earring_right" id="0:262"/>
+                    </Node>
+                    <Image x="-12.63" y="-258.76" scaleX="0.5" scaleY="0.5" assetId="0:259" name="hair_front" id="0:260"/>
+                    <Node x="33.50" y="-228.29" name="Brow_left" id="0:258">
+                        <Image x="0.00" y="0.00" scaleX="0.5" scaleY="0.5" assetId="0:256" name="brow_left" id="0:257"/>
+                    </Node>
+                    <Node x="-100.25" y="-199.50" name="Brow_right" id="0:255">
+                        <Image x="0.00" y="0.00" scaleX="0.5" scaleY="0.5" assetId="0:253" name="brow_right" id="0:254"/>
+                    </Node>
+                    <Image x="-19.77" y="-108.75" scaleX="0.5" scaleY="0.5" assetId="0:251" name="nose" id="0:252"/>
+                    <Image x="82.01" y="-115.89" scaleX="0.5" scaleY="0.5" assetId="0:249" name="cheek_left" id="0:250"/>
+                    <Image x="-106.01" y="-83.93" scaleX="0.5" scaleY="0.5" assetId="0:247" name="cheek_right" id="0:248"/>
+                    <Image x="-10.60" y="-151.04" scaleX="0.5" scaleY="0.5" assetId="0:245" name="head" id="0:246"/>
+                    <Image x="152.25" y="-152.00" scaleX="0.5" scaleY="0.5" assetId="0:243" name="ear_left" id="0:244"/>
+                    <Image x="-163.93" y="-104.43" scaleX="0.5" scaleY="0.5" assetId="0:241" name="ear_right" id="0:242"/>
+                    <Image x="-12.96" y="-201.88" scaleX="0.5" scaleY="0.5" assetId="0:239" name="hair_back" id="0:240"/>
+                    <Image x="75.00" y="-177.00" scaleX="0.5" scaleY="0.5" assetId="0:237" name="hair_bun" id="0:238"/>
+                </Node>
+                <Image x="-48.00" y="-358.50" scaleX="0.5" scaleY="0.5" assetId="0:325" name="brooch" id="0:326"/>
+                <Image x="26.62" y="-156.85" scaleX="0.5" scaleY="0.5" assetId="0:323" name="hand_left" id="0:324"/>
+                <Image x="-73.17" y="-106.03" scaleX="0.5" scaleY="0.5" assetId="0:321" name="hand_right" id="0:322"/>
+                <Image x="186.50" y="-166.50" scaleX="0.5" scaleY="0.5" assetId="0:319" name="arm_left_lower" id="0:320"/>
+                <Image x="70.80" y="-203.32" scaleX="0.5" scaleY="0.5" assetId="0:317" name="book" id="0:318"/>
+                <Image x="214.00" y="-299.25" scaleX="0.5" scaleY="0.5" assetId="0:315" name="arm_left_upper" id="0:316"/>
+                <Image x="-204.25" y="-166.00" scaleX="0.5" scaleY="0.5" assetId="0:313" name="arm_right_lower" id="0:314"/>
+                <Image x="-222.25" y="-302.25" scaleX="0.5" scaleY="0.5" assetId="0:311" name="arm_right_upper" id="0:312"/>
+                <Image x="-25.00" y="-461.50" scaleX="0.5" scaleY="0.5" assetId="0:309" name="collar" id="0:310"/>
+                <Image x="-22.50" y="-497.00" scaleX="0.5" scaleY="0.5" assetId="0:307" name="neck" id="0:308"/>
+                <Image x="1.64" y="-250.00" scaleX="0.5" scaleY="0.5" assetId="0:305" name="torso" id="0:306"/>
+            </Node>
+            <Node x="0.00" y="0.00" name="Lower" id="0:338">
+                <Image x="515.72" y="1158.50" scaleX="0.5" scaleY="0.5" assetId="0:336" name="skirt" id="0:337"/>
+                <Image x="576.25" y="1444.75" scaleX="0.5" scaleY="0.5" assetId="0:334" name="shoe_left" id="0:335"/>
+                <Image x="442.09" y="1436.00" scaleX="0.5" scaleY="0.5" assetId="0:332" name="shoe_right" id="0:333"/>
+                <Image x="590.67" y="1202.50" scaleX="0.5" scaleY="0.5" assetId="0:330" name="leg_left" id="0:331"/>
+                <Image x="419.86" y="1196.00" scaleX="0.5" scaleY="0.5" assetId="0:328" name="leg_right" id="0:329"/>
+            </Node>
+        </Node>
+        <StateMachine name="Teacher SM" id="0:7">
+            <StateMachineLayer name="Blink" id="0:378">
+                <AnyState x="0" y="-200" id="0:379"/>
+                <ExitState x="0" y="400" id="0:380"/>
+                <EntryState x="-200" y="0" id="0:381">
+                    <StateTransition stateToId="0:377" id="0:382"/>
+                </EntryState>
+                <AnimationState x="160" y="0" animationId="0:342" id="0:377"/>
+            </StateMachineLayer>
+        </StateMachine>
+        <LinearAnimation loopValue="loop" duration="540" name="Blink" id="0:342">
+            <KeyedObject objectId="0:275" id="0:383">
+                <KeyedProperty property="x" id="0:384">
+                    <KeyFrameDouble value="0.0000" frame="0" interpolationType="cubic" id="0:385">
+                        <CubicEaseInterpolator x1="0.42" y1="0" x2="0.58" y2="1" id="0:386"/>
+                    </KeyFrameDouble>
+                    <KeyFrameDouble value="0.0000" frame="60" interpolationType="cubic" id="0:387">
+                        <CubicEaseInterpolator x1="0.42" y1="0" x2="0.58" y2="1" id="0:388"/>
+                    </KeyFrameDouble>
+                    <KeyFrameDouble value="-5.0000" frame="120" interpolationType="cubic" id="0:389">
+                        <CubicEaseInterpolator x1="0.42" y1="0" x2="0.58" y2="1" id="0:390"/>
+                    </KeyFrameDouble>
+                    <KeyFrameDouble value="-5.0000" frame="180" interpolationType="cubic" id="0:391">
+                        <CubicEaseInterpolator x1="0.42" y1="0" x2="0.58" y2="1" id="0:392"/>
+                    </KeyFrameDouble>
+                    <KeyFrameDouble value="5.0000" frame="270" interpolationType="cubic" id="0:393">
+                        <CubicEaseInterpolator x1="0.42" y1="0" x2="0.58" y2="1" id="0:394"/>
+                    </KeyFrameDouble>
+                    <KeyFrameDouble value="5.0000" frame="330" interpolationType="cubic" id="0:395">
+                        <CubicEaseInterpolator x1="0.42" y1="0" x2="0.58" y2="1" id="0:396"/>
+                    </KeyFrameDouble>
+                    <KeyFrameDouble value="0.0000" frame="380" interpolationType="cubic" id="0:397">
+                        <CubicEaseInterpolator x1="0.42" y1="0" x2="0.58" y2="1" id="0:398"/>
+                    </KeyFrameDouble>
+                    <KeyFrameDouble value="0.0000" frame="540" interpolationType="cubic" id="0:399">
+                        <CubicEaseInterpolator x1="0.42" y1="0" x2="0.58" y2="1" id="0:400"/>
+                    </KeyFrameDouble>
+                </KeyedProperty>
+            </KeyedObject>
+            <KeyedObject objectId="0:292" id="0:401">
+                <KeyedProperty property="x" id="0:402">
+                    <KeyFrameDouble value="0.0000" frame="0" interpolationType="cubic" id="0:403">
+                        <CubicEaseInterpolator x1="0.42" y1="0" x2="0.58" y2="1" id="0:404"/>
+                    </KeyFrameDouble>
+                    <KeyFrameDouble value="0.0000" frame="60" interpolationType="cubic" id="0:405">
+                        <CubicEaseInterpolator x1="0.42" y1="0" x2="0.58" y2="1" id="0:406"/>
+                    </KeyFrameDouble>
+                    <KeyFrameDouble value="-5.0000" frame="120" interpolationType="cubic" id="0:407">
+                        <CubicEaseInterpolator x1="0.42" y1="0" x2="0.58" y2="1" id="0:408"/>
+                    </KeyFrameDouble>
+                    <KeyFrameDouble value="-5.0000" frame="180" interpolationType="cubic" id="0:409">
+                        <CubicEaseInterpolator x1="0.42" y1="0" x2="0.58" y2="1" id="0:410"/>
+                    </KeyFrameDouble>
+                    <KeyFrameDouble value="5.0000" frame="270" interpolationType="cubic" id="0:411">
+                        <CubicEaseInterpolator x1="0.42" y1="0" x2="0.58" y2="1" id="0:412"/>
+                    </KeyFrameDouble>
+                    <KeyFrameDouble value="5.0000" frame="330" interpolationType="cubic" id="0:413">
+                        <CubicEaseInterpolator x1="0.42" y1="0" x2="0.58" y2="1" id="0:414"/>
+                    </KeyFrameDouble>
+                    <KeyFrameDouble value="0.0000" frame="380" interpolationType="cubic" id="0:415">
+                        <CubicEaseInterpolator x1="0.42" y1="0" x2="0.58" y2="1" id="0:416"/>
+                    </KeyFrameDouble>
+                    <KeyFrameDouble value="0.0000" frame="540" interpolationType="cubic" id="0:417">
+                        <CubicEaseInterpolator x1="0.42" y1="0" x2="0.58" y2="1" id="0:418"/>
+                    </KeyFrameDouble>
+                </KeyedProperty>
+            </KeyedObject>
+            <KeyedObject objectId="0:280" id="0:419">
+                <KeyedProperty property="scaleY" id="0:420">
+                    <KeyFrameDouble value="1.0000" frame="0" interpolationType="cubic" id="0:421">
+                        <CubicEaseInterpolator x1="0.42" y1="0" x2="0.58" y2="1" id="0:422"/>
+                    </KeyFrameDouble>
+                    <KeyFrameDouble value="1.0000" frame="390" interpolationType="cubic" id="0:423">
+                        <CubicEaseInterpolator x1="0.42" y1="0" x2="0.58" y2="1" id="0:424"/>
+                    </KeyFrameDouble>
+                    <KeyFrameDouble value="0.1500" frame="394" interpolationType="cubic" id="0:425">
+                        <CubicEaseInterpolator x1="0.42" y1="0" x2="0.58" y2="1" id="0:426"/>
+                    </KeyFrameDouble>
+                    <KeyFrameDouble value="0.1500" frame="400" interpolationType="cubic" id="0:427">
+                        <CubicEaseInterpolator x1="0.42" y1="0" x2="0.58" y2="1" id="0:428"/>
+                    </KeyFrameDouble>
+                    <KeyFrameDouble value="1.0000" frame="405" interpolationType="cubic" id="0:429">
+                        <CubicEaseInterpolator x1="0.42" y1="0" x2="0.58" y2="1" id="0:430"/>
+                    </KeyFrameDouble>
+                </KeyedProperty>
+                <KeyedProperty property="opacity" id="0:431">
+                    <KeyFrameDouble value="1" frame="0" interpolationType="hold" id="0:432"/>
+                    <KeyFrameDouble value="0" frame="394" interpolationType="hold" id="0:433"/>
+                    <KeyFrameDouble value="1" frame="400" interpolationType="hold" id="0:434"/>
+                </KeyedProperty>
+            </KeyedObject>
+            <KeyedObject objectId="0:297" id="0:435">
+                <KeyedProperty property="scaleY" id="0:436">
+                    <KeyFrameDouble value="1.0000" frame="0" interpolationType="cubic" id="0:437">
+                        <CubicEaseInterpolator x1="0.42" y1="0" x2="0.58" y2="1" id="0:438"/>
+                    </KeyFrameDouble>
+                    <KeyFrameDouble value="1.0000" frame="390" interpolationType="cubic" id="0:439">
+                        <CubicEaseInterpolator x1="0.42" y1="0" x2="0.58" y2="1" id="0:440"/>
+                    </KeyFrameDouble>
+                    <KeyFrameDouble value="0.1500" frame="394" interpolationType="cubic" id="0:441">
+                        <CubicEaseInterpolator x1="0.42" y1="0" x2="0.58" y2="1" id="0:442"/>
+                    </KeyFrameDouble>
+                    <KeyFrameDouble value="0.1500" frame="400" interpolationType="cubic" id="0:443">
+                        <CubicEaseInterpolator x1="0.42" y1="0" x2="0.58" y2="1" id="0:444"/>
+                    </KeyFrameDouble>
+                    <KeyFrameDouble value="1.0000" frame="405" interpolationType="cubic" id="0:445">
+                        <CubicEaseInterpolator x1="0.42" y1="0" x2="0.58" y2="1" id="0:446"/>
+                    </KeyFrameDouble>
+                </KeyedProperty>
+                <KeyedProperty property="opacity" id="0:447">
+                    <KeyFrameDouble value="1" frame="0" interpolationType="hold" id="0:448"/>
+                    <KeyFrameDouble value="0" frame="394" interpolationType="hold" id="0:449"/>
+                    <KeyFrameDouble value="1" frame="400" interpolationType="hold" id="0:450"/>
+                </KeyedProperty>
+            </KeyedObject>
+            <KeyedObject objectId="0:282" id="0:451">
+                <KeyedProperty property="opacity" id="0:452">
+                    <KeyFrameDouble value="0" frame="0" interpolationType="hold" id="0:453"/>
+                    <KeyFrameDouble value="1" frame="394" interpolationType="hold" id="0:454"/>
+                    <KeyFrameDouble value="0" frame="400" interpolationType="hold" id="0:455"/>
+                </KeyedProperty>
+            </KeyedObject>
+            <KeyedObject objectId="0:299" id="0:456">
+                <KeyedProperty property="opacity" id="0:457">
+                    <KeyFrameDouble value="0" frame="0" interpolationType="hold" id="0:458"/>
+                    <KeyFrameDouble value="1" frame="394" interpolationType="hold" id="0:459"/>
+                    <KeyFrameDouble value="0" frame="400" interpolationType="hold" id="0:460"/>
+                </KeyedProperty>
+            </KeyedObject>
+        </LinearAnimation>
+    </Artboard>
+    <DataEnumCustom name="Mouth" id="0:60">
+        <DataEnumValue key="rest" value="rest" id="0:61"/>
+        <DataEnumValue key="a" value="a" id="0:62"/>
+        <DataEnumValue key="e" value="e" id="0:63"/>
+        <DataEnumValue key="o" value="o" id="0:64"/>
+        <DataEnumValue key="u" value="u" id="0:65"/>
+        <DataEnumValue key="mbp" value="mbp" id="0:66"/>
+        <DataEnumValue key="fv" value="fv" id="0:67"/>
+        <DataEnumValue key="lntd" value="lntd" id="0:68"/>
+        <DataEnumValue key="s" value="s" id="0:69"/>
+        <DataEnumValue key="sh" value="sh" id="0:70"/>
+        <DataEnumValue key="r" value="r" id="0:71"/>
+        <DataEnumValue key="kg" value="kg" id="0:72"/>
+        <DataEnumValue key="th" value="th" id="0:73"/>
+        <DataEnumValue key="smile" value="smile" id="0:74"/>
+        <DataEnumValue key="surprised" value="surprised" id="0:75"/>
+        <DataEnumValue key="sad" value="sad" id="0:76"/>
+        <DataEnumValue key="neutral" value="neutral" id="0:77"/>
+        <DataEnumValue key="open" value="open" id="0:78"/>
+    </DataEnumCustom>
+    <DataEnumCustom name="Reaction" id="0:90">
+        <DataEnumValue key="none" value="none" id="0:91"/>
+        <DataEnumValue key="happy" value="happy" id="0:92"/>
+        <DataEnumValue key="sad" value="sad" id="0:93"/>
+        <DataEnumValue key="surprised" value="surprised" id="0:94"/>
+    </DataEnumCustom>
+    <ViewModel defaultInstanceId="0:42" name="Teacher" id="0:40">
+        <ViewModelPropertyEnumCustom enumId="0:60" name="mouth" id="0:41"/>
+        <ViewModelPropertyBoolean name="talking" id="0:43"/>
+        <ViewModelPropertyEnumCustom enumId="0:90" name="reaction" id="0:44"/>
+        <ViewModelInstance exports="true" name="Default" id="0:42">
+            <ViewModelInstanceEnum propertyValue="0:61" viewModelPropertyId="0:41" id="0:461"/>
+            <ViewModelInstanceBoolean propertyValue="false" viewModelPropertyId="0:43" id="0:462"/>
+            <ViewModelInstanceEnum propertyValue="0:91" viewModelPropertyId="0:44" id="0:463"/>
+        </ViewModelInstance>
+    </ViewModel>
+    <ImageAsset file="parts/mouth_rest.png" name="mouth_rest" id="0:201"/>
+    <ImageAsset file="parts/mouth_A.png" name="mouth_A" id="0:203"/>
+    <ImageAsset file="parts/mouth_E.png" name="mouth_E" id="0:205"/>
+    <ImageAsset file="parts/mouth_O.png" name="mouth_O" id="0:207"/>
+    <ImageAsset file="parts/mouth_U.png" name="mouth_U" id="0:209"/>
+    <ImageAsset file="parts/mouth_MBP.png" name="mouth_MBP" id="0:211"/>
+    <ImageAsset file="parts/mouth_FV.png" name="mouth_FV" id="0:213"/>
+    <ImageAsset file="parts/mouth_LNTD.png" name="mouth_LNTD" id="0:215"/>
+    <ImageAsset file="parts/mouth_S.png" name="mouth_S" id="0:217"/>
+    <ImageAsset file="parts/mouth_SH.png" name="mouth_SH" id="0:219"/>
+    <ImageAsset file="parts/mouth_R.png" name="mouth_R" id="0:221"/>
+    <ImageAsset file="parts/mouth_KG.png" name="mouth_KG" id="0:223"/>
+    <ImageAsset file="parts/mouth_TH.png" name="mouth_TH" id="0:225"/>
+    <ImageAsset file="parts/mouth_smile_big.png" name="mouth_smile_big" id="0:227"/>
+    <ImageAsset file="parts/mouth_surprised.png" name="mouth_surprised" id="0:229"/>
+    <ImageAsset file="parts/mouth_sad.png" name="mouth_sad" id="0:231"/>
+    <ImageAsset file="parts/mouth_neutral.png" name="mouth_neutral" id="0:233"/>
+    <ImageAsset file="parts/mouth_open.png" name="mouth_open" id="0:235"/>
+    <ImageAsset file="parts/hair_bun.png" name="hair_bun" id="0:237"/>
+    <ImageAsset file="parts/hair_back.png" name="hair_back" id="0:239"/>
+    <ImageAsset file="parts/ear_right.png" name="ear_right" id="0:241"/>
+    <ImageAsset file="parts/ear_left.png" name="ear_left" id="0:243"/>
+    <ImageAsset file="parts/head.png" name="head" id="0:245"/>
+    <ImageAsset file="parts/cheek_right.png" name="cheek_right" id="0:247"/>
+    <ImageAsset file="parts/cheek_left.png" name="cheek_left" id="0:249"/>
+    <ImageAsset file="parts/nose.png" name="nose" id="0:251"/>
+    <ImageAsset file="parts/brow_right.png" name="brow_right" id="0:253"/>
+    <ImageAsset file="parts/brow_left.png" name="brow_left" id="0:256"/>
+    <ImageAsset file="parts/hair_front.png" name="hair_front" id="0:259"/>
+    <ImageAsset file="parts/earring_right.png" name="earring_right" id="0:261"/>
+    <ImageAsset file="parts/earring_left.png" name="earring_left" id="0:264"/>
+    <ImageAsset file="parts/iris_right.png" name="iris_right" id="0:267"/>
+    <ImageAsset file="parts/pupil_right.png" name="pupil_right" id="0:269"/>
+    <ImageAsset file="parts/eye_shine_right.png" name="eye_shine_right" id="0:271"/>
+    <ImageAsset file="parts/eye_right_detail_01.png" name="eye_right_detail_01" id="0:273"/>
+    <ImageAsset file="parts/eyelash_right.png" name="eyelash_right" id="0:276"/>
+    <ImageAsset file="parts/eye_white_right.png" name="eye_white_right" id="0:278"/>
+    <ImageAsset file="parts/eye_right_closed.png" name="eye_right_closed" id="0:281"/>
+    <ImageAsset file="parts/iris_left.png" name="iris_left" id="0:284"/>
+    <ImageAsset file="parts/pupil_left.png" name="pupil_left" id="0:286"/>
+    <ImageAsset file="parts/eye_shine_left.png" name="eye_shine_left" id="0:288"/>
+    <ImageAsset file="parts/eye_left_detail_01.png" name="eye_left_detail_01" id="0:290"/>
+    <ImageAsset file="parts/eyelash_left.png" name="eyelash_left" id="0:293"/>
+    <ImageAsset file="parts/eye_white_left.png" name="eye_white_left" id="0:295"/>
+    <ImageAsset file="parts/eye_left_closed.png" name="eye_left_closed" id="0:298"/>
+    <ImageAsset file="parts/wrinkles.png" name="wrinkles" id="0:301"/>
+    <ImageAsset file="parts/torso.png" name="torso" id="0:305"/>
+    <ImageAsset file="parts/neck.png" name="neck" id="0:307"/>
+    <ImageAsset file="parts/collar.png" name="collar" id="0:309"/>
+    <ImageAsset file="parts/arm_right_upper.png" name="arm_right_upper" id="0:311"/>
+    <ImageAsset file="parts/arm_right_lower.png" name="arm_right_lower" id="0:313"/>
+    <ImageAsset file="parts/arm_left_upper.png" name="arm_left_upper" id="0:315"/>
+    <ImageAsset file="parts/book.png" name="book" id="0:317"/>
+    <ImageAsset file="parts/arm_left_lower.png" name="arm_left_lower" id="0:319"/>
+    <ImageAsset file="parts/hand_right.png" name="hand_right" id="0:321"/>
+    <ImageAsset file="parts/hand_left.png" name="hand_left" id="0:323"/>
+    <ImageAsset file="parts/brooch.png" name="brooch" id="0:325"/>
+    <ImageAsset file="parts/leg_right.png" name="leg_right" id="0:328"/>
+    <ImageAsset file="parts/leg_left.png" name="leg_left" id="0:330"/>
+    <ImageAsset file="parts/shoe_right.png" name="shoe_right" id="0:332"/>
+    <ImageAsset file="parts/shoe_left.png" name="shoe_left" id="0:334"/>
+    <ImageAsset file="parts/skirt.png" name="skirt" id="0:336"/>
+</Rive>

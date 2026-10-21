@@ -1,0 +1,13 @@
+name: mening_loyiham
+main: Teacher             # standart artboard (runtime shu nom bilan ochadi)
+
+output:
+  dir: build              # .riv shu yerga yoziladi: build/mening_loyiham.riv
+
+logs:
+  file: build/rive.log
+  problems: build/problems.log
+
+push:
+  projectId: 2025837
+  fileId: 2661883
