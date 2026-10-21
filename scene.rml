@@ -1,7 +1,7 @@
 <Rive version="1" kind="fragment">
     <Artboard defaultStateMachineId="0:7" viewModelId="0:40" viewModelInstanceId="0:42" styleId="0:5" width="1024" height="1536" name="Teacher" id="0:2">
         <LayoutComponentStyle name="Artboard Style" id="0:5"/>
-        <Node x="0.00" y="0.00" name="Teacher" id="0:339">
+        <Node x="1024.00" y="0.00" scaleX="-1" name="Teacher" id="0:339">
             <Node x="515.00" y="940.00" name="Body" id="0:327">
                 <Node x="-30.00" y="-508.00" name="Head" id="0:304">
                     <Node x="-7.00" y="-69.00" name="Mouth" id="0:303">
@@ -42,10 +42,10 @@
                         <Image x="-1.25" y="3.15" scaleX="0.5" scaleY="0.5" opacity="0" assetId="0:281" name="eye_right_closed" id="0:282"/>
                         <Node x="0.00" y="0.00" name="EyeOpen_right" id="0:280">
                             <Node x="0.00" y="0.00" name="Look_right" id="0:275">
-                                <Image x="17.75" y="12.65" scaleX="0.5" scaleY="0.5" assetId="0:273" name="eye_right_detail_01" id="0:274"/>
-                                <Image x="1.75" y="-8.35" scaleX="0.5" scaleY="0.5" assetId="0:271" name="eye_shine_right" id="0:272"/>
-                                <Image x="13.75" y="-0.35" scaleX="0.5" scaleY="0.5" assetId="0:269" name="pupil_right" id="0:270"/>
-                                <Image x="10.55" y="1.60" scaleX="0.5" scaleY="0.5" assetId="0:267" name="iris_right" id="0:268"/>
+                                <Image x="6.75" y="14.68" scaleX="0.5" scaleY="0.5" assetId="0:273" name="eye_right_detail_01" id="0:274"/>
+                                <Image x="-11.25" y="-6.32" scaleX="0.5" scaleY="0.5" assetId="0:271" name="eye_shine_right" id="0:272"/>
+                                <Image x="1.75" y="2.68" scaleX="0.5" scaleY="0.5" assetId="0:269" name="pupil_right" id="0:270"/>
+                                <Image x="-0.40" y="3.53" scaleX="0.5" scaleY="0.5" assetId="0:267" name="iris_right" id="0:268"/>
                             </Node>
                             <Image x="0.00" y="0.00" scaleX="0.5" scaleY="0.5" assetId="0:278" name="eye_white_right" id="0:279"/>
                             <Image x="-2.05" y="-13.46" scaleX="0.5" scaleY="0.5" assetId="0:276" name="eyelash_right" id="0:277"/>
